@@ -6,3 +6,6 @@ C:\Users\cb\Desktop\JsonValidator\JsonValidator\obj\Debug\JsonValidator.exe
 C:\Users\cb\Desktop\JsonValidator\JsonValidator\obj\Debug\JsonValidator.pdb
 C:\Users\cb\Desktop\JsonValidator\JsonValidator\bin\Debug\Newtonsoft.Json.dll
 C:\Users\cb\Desktop\JsonValidator\JsonValidator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cb\Documents\GitHub\JsonValidator\JsonValidator\bin\Debug\JsonValidator.exe.config
+C:\Users\cb\Documents\GitHub\JsonValidator\JsonValidator\obj\Debug\JsonValidator.exe
+C:\Users\cb\Documents\GitHub\JsonValidator\JsonValidator\obj\Debug\JsonValidator.pdb
